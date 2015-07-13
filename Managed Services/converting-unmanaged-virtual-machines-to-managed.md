@@ -7,9 +7,9 @@
 }}}
 
 ### Overview
-[CenturyLink Cloud Managed Operating System Services](//www.centurylinkcloud.com/managed-services/operating-system/) provide maintenance and management of your Windows & Red Hat cloud servers, 24x7.  For a flat hourly fee, our engineers will perform common administrative functions on your behalf. Don’t worry about applying the latest patches, updating servers with the latest anti-virus tools, or keeping servers compliant with corporate access policies - we’ll do it for you!
+[CenturyLink Cloud Managed Operating System Services](//www.ctl.io/managed-services/operating-system/) provide maintenance and management of your Windows & Red Hat cloud servers, 24x7.  For a flat hourly fee, our engineers will perform common administrative functions on your behalf. Don’t worry about applying the latest patches, updating servers with the latest anti-virus tools, or keeping servers compliant with corporate access policies - we’ll do it for you!
 
-Customers may wish to enable [Managed Operating System Services](//www.centurylinkcloud.com/managed-services/operating-system/) on virtual machines already deployed in an **unmanaged** state to offload critical IT functions.  In order to facilitate this process the CenturyLink Cloud platform provides an automated [Blueprint](//www.centurylinkcloud.com/blueprints/) to convert unmanaged virtual machines into a managed operating system.
+Customers may wish to enable [Managed Operating System Services](//www.ctl.io/managed-services/operating-system/) on virtual machines already deployed in an **unmanaged** state to offload critical IT functions.  In order to facilitate this process the CenturyLink Cloud platform provides an automated [Blueprint](//www.ctl.io/blueprints/) to convert unmanaged virtual machines into a managed operating system.
 
 ### Important Information
 * Conversion from **Managed** to **Unmanaged** Operating System Services is not currently a supported feature.

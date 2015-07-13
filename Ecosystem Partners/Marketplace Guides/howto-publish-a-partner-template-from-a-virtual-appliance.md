@@ -22,11 +22,11 @@ For some CenturyLink Cloud Ecosystem Program members, a Virtual Appliance or "cu
 - Cloud Ecosystem Program status - must be at least Candidate 
 - Supplied Image Files:
 	- Must meet the existing OVF image requirements
-		http://www.centurylinkcloud.com/knowledge-base/service-tasks/requirements-for-custom-imagevm-imports
+		http://www.ctl.io/knowledge-base/service-tasks/requirements-for-custom-imagevm-imports
 	- Should adhere to Image Best Practices
-		http://www.centurylinkcloud.com/knowledge-base/service-tasks/best-practices-and-preparation-for-a-virtual-machineovfova-import
+		http://www.ctl.io/knowledge-base/service-tasks/best-practices-and-preparation-for-a-virtual-machineovfova-import
 - Please ensure that company and product name are in any image filenames
-- Be aware that importing a virtual appliance or image is considered a billable service task by CenturyLink Cloud Support. These fees will count against an Ecosystem Partner's integration credit.  More information on Service Tasks and pricing can be found here: http://www.centurylinkcloud.com/knowledge-base/service-tasks/requesting-service-tasks-on-centurylink-cloud
+- Be aware that importing a virtual appliance or image is considered a billable service task by CenturyLink Cloud Support. These fees will count against an Ecosystem Partner's integration credit.  More information on Service Tasks and pricing can be found here: http://www.ctl.io/knowledge-base/service-tasks/requesting-service-tasks-on-centurylink-cloud
 
 
 ### Publish Partner-Supplied 'Custom Image' Process
@@ -90,4 +90,4 @@ your_name_here
 ### Frequently Asked Questions
 
 #### What are the costs associated with importing a virtual appliance?
-Importing a virtual appliance provided by a Cloud Ecosystem Partner aligns with how a customer would import a custom image and is considered a billable service task.  The cost for the Service Task is $195/hr with a 2 hour minimum, making it $390 total.  Additional support required would be $195/hr.  More information on Service Task Fees is available here: http://www.centurylinkcloud.com/service-tasks#Pricing
+Importing a virtual appliance provided by a Cloud Ecosystem Partner aligns with how a customer would import a custom image and is considered a billable service task.  The cost for the Service Task is $195/hr with a 2 hour minimum, making it $390 total.  Additional support required would be $195/hr.  More information on Service Task Fees is available here: http://www.ctl.io/service-tasks#Pricing

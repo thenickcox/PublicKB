@@ -145,7 +145,7 @@ If you are interested in seeing this type of Partner Template deployment as an a
 For more information on how to use the SoftNAS solution, please visit: [http://www.softnas.com/support/](http://www.softnas.com/support/)
 
 ### Pricing
-There are no SoftNAS license costs included.  The cost to deploy the Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees are available here: [http://www.centurylinkcloud.com/service-tasks](http://www.centurylinkcloud.com/service-tasks)
+There are no SoftNAS license costs included.  The cost to deploy the Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees are available here: [http://www.ctl.io/service-tasks](http://www.ctl.io/service-tasks)
 
 #### Process to request credit for Service Task fee
 Follow this process to request credit on your account to re-imburse any expense to deploy the Partner Template

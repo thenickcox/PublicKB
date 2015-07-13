@@ -111,7 +111,7 @@ Once the Service Task team deploy's your A10 vThunder Appliance, you will get a 
 - For additional information on how to configure your A10 vThunder Appliance, please visit the support website at http:///www.A10Networks.com/support/
 
 ### Pricing
-There are no A10 license costs or additional fees bundled in.  The cost to deploy the A10 vThunder Partner Template will be billed as a Service Task.  More information about Service Tasks and fees are available here: http://www.centurylinkcloud.com/service-tasks
+There are no A10 license costs or additional fees bundled in.  The cost to deploy the A10 vThunder Partner Template will be billed as a Service Task.  More information about Service Tasks and fees are available here: http://www.ctl.io/service-tasks
 
 ### Frequently Asked Questions
 Frequently Asked Questions:

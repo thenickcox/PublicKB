@@ -105,7 +105,7 @@ Your_Name_Here
 -----
 
 ### Pricing
-There are no Cavirin license costs included.  The cost to deploy the Cavirin Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees is [available here](http://www.centurylinkcloud.com/service-tasks).
+There are no Cavirin license costs included.  The cost to deploy the Cavirin Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees is [available here](http://www.ctl.io/service-tasks).
 
 #### Process to request credit for Service Task fee
 Follow this process to request credit on your account to re-imburse any expense to deploy the Partner Template

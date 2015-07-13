@@ -112,7 +112,7 @@ Once the Service Task team deploys your Cohesive Networks VNS3 virtual appliance
 - For support on how to configure your Cohesive Networks VNS3 virtual appliance, please visit the Cohesive support website at https://cohesive.net/support/support-contacts/
 
 ### Pricing
-There are no Cohesive Networks VNS3 license costs included.  The cost to deploy the Cohesive Networks VNS3 Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees are available here: http://www.centurylinkcloud.com/service-tasks
+There are no Cohesive Networks VNS3 license costs included.  The cost to deploy the Cohesive Networks VNS3 Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees are available here: http://www.ctl.io/service-tasks
 
 #### Process to request credit for Service Task fee
 Follow this process to request credit on your account to re-imburse any expense to deploy the Partner Template

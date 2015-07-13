@@ -91,7 +91,7 @@ _**Requesting a Customer Trial**_
 To request a trial, use the following process:
 
 1. Create a Customer Account in the Control Portal.
-2. Request a Customer Trial via email to cloudpartnerhelp@centurylinkcloud.com
+2. Request a Customer Trial via email to cloudpartnerhelp@ctl.io
 3. The Email Subject should read as follows:  “Request – Partner Name – Customer Alias”
 4. In the body of the email, please include the following:
 >+ Partner Name
@@ -117,7 +117,7 @@ At the end of the Trial, the CenturyLink Cloud Team will email you letting you k
 
 _**End of Trial: Customer cancels use of CenturyLink Cloud**_
 
-If the customer does not convert to a paying customer, you need to email the CenturyLink Cloud Team - cloudpartnerhelp@centurylinkcloud.com informing them of the customer’s decision to not become a paying customer and ask for closing the account.  You need to close the account before the end of the trial date (in this case, 05/6/15), otherwise you will be billed for that customer’s usage, beginning 5/7/15.
+If the customer does not convert to a paying customer, you need to email the CenturyLink Cloud Team - cloudpartnerhelp@ctl.io informing them of the customer’s decision to not become a paying customer and ask for closing the account.  You need to close the account before the end of the trial date (in this case, 05/6/15), otherwise you will be billed for that customer’s usage, beginning 5/7/15.
 The customer account will be removed from the portal by CenturyCloud Team after the request is made.
 
 ## Service Catalog

@@ -8,7 +8,7 @@
 
 ###New Features (1)
 
-* **Shared Load Balancer APIs.** The creation and management of load balancer pools is now available via self-service API. All the capabilities that are available for shared load balancing in the Control Portal - including create, configure, and delete - can now be done via API. Documentation can be found [here](https:./www.centurylinkcloud.com/api-docs/v2/#shared-load-balancers).
+* **Shared Load Balancer APIs.** The creation and management of load balancer pools is now available via self-service API. All the capabilities that are available for shared load balancing in the Control Portal - including create, configure, and delete - can now be done via API. Documentation can be found [here](https:./www.ctl.io/api-docs/v2/#shared-load-balancers).
 
 ###Minor Enhancements (6)
 
@@ -16,7 +16,7 @@
 
 * **No charge for Managed OS services when servers are powered off.** Virtual machines with a managed OS will NOT incur hourly managed OS fees when the server is powered off. Charges will re-start after the VM is powered back on.
 
-* **CenturyLink Cloud Status.** A new portal - [status.ctl.io](http:./status.ctl.io) - includes real-time updates on the status of CenturyLink Cloud services, and upcoming maintenance notifications. Accordingly, maintenance and outage notifications will no longer come from communications@centurylinkcloud.com; instead they will come from noc@ctl.io. More information about this service can be found [here](../General/centurylink-cloud-status-faq.md).
+* **CenturyLink Cloud Status.** A new portal - [status.ctl.io](http:./status.ctl.io) - includes real-time updates on the status of CenturyLink Cloud services, and upcoming maintenance notifications. Accordingly, maintenance and outage notifications will no longer come from communications@ctl.io; instead they will come from noc@ctl.io. More information about this service can be found [here](../General/centurylink-cloud-status-faq.md).
 
 ![centurylink-status](../images/centurylink-status.png)
 
@@ -33,7 +33,7 @@
 
 ###Online Tools (2)
 
-* **Account Activation.** The "activate" experience on [activate.centurylinkcloud.com](https:./activate.centurylinkcloud.com) has been enhanced with two-factor authentication and a simplified user flow.
+* **Account Activation.** The "activate" experience on [activate.ctl.io](https:./activate.ctl.io) has been enhanced with two-factor authentication and a simplified user flow.
 
 * **Data center-specific Pricing Catalog and Cloud Price Estimator.** Region-specific pricing is now reflected in these tools. Simply select a data center using the drop-down, and prices will update automatically.
 

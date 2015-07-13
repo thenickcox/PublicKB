@@ -102,7 +102,7 @@ Follow these steps to access and configure your Vormetric partner template once 
 2. Change your password and configure your DSM based on your requirements.  Please view the support information on [http://www.Vormetric.com](http://www.Vormetric.com) for more information.
 
 ### Pricing
-There are no Vormetric license costs included.  The cost to deploy the Vormetric Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees is [available here](http://www.centurylinkcloud.com/service-tasks).
+There are no Vormetric license costs included.  The cost to deploy the Vormetric Partner Template will be billed as a Service Task, but CenturyLink will provide a credit for those costs.  In order to receive a credit, please follow the instructions below. More information about Service Tasks and fees is [available here](http://www.ctl.io/service-tasks).
 
 #### Process to request credit for Service Task fee
 Follow this process to request credit on your account to re-imburse any expense to deploy the Partner Template

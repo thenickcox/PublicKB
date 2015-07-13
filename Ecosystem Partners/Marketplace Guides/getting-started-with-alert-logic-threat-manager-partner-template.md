@@ -104,7 +104,7 @@ Follow these steps to access your Alert Logic Threat Manager:
 - For additional information on how to configure your Alert Logic Threat Manager, please visit the support website at http:///www.AlertLogic.com
 
 ### Pricing
-There are no Alert Logic license costs or additional fees bundled in. The cost to deploy the Alert Logic Threat Manager Partner Template will be billed as a Service Task. More information about Service Tasks and fees are available here: http://www.centurylinkcloud.com/service-tasks
+There are no Alert Logic license costs or additional fees bundled in. The cost to deploy the Alert Logic Threat Manager Partner Template will be billed as a Service Task. More information about Service Tasks and fees are available here: http://www.ctl.io/service-tasks
 
 ### Frequently Asked Questions
 Frequently Asked Questions:

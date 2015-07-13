@@ -103,7 +103,7 @@ Follow these steps to access your Alert Logic Web Security Manager:
 Contact Alert Logic at +1.877.484.8383
 
 ### Pricing
-The cost associated with this deployment is $195/hr for the CenturyLink Cloud Service Tasks.  There are no Alert Logic license costs or additional fees bundled in.  Service Task Fees are available here: http://www.centurylinkcloud.com/service-tasks#Pricing
+The cost associated with this deployment is $195/hr for the CenturyLink Cloud Service Tasks.  There are no Alert Logic license costs or additional fees bundled in.  Service Task Fees are available here: http://www.ctl.io/service-tasks#Pricing
 
 ### Frequently Asked Questions
 Frequently Asked Questions:

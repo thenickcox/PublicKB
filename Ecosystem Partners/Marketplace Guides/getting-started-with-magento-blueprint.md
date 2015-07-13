@@ -29,11 +29,11 @@ After reading this article, the user should feel comfortable getting started usi
 
 ### Postrequisite
 
-- If you need to connect to your server via internet, add a Public IP address to your server.  For more information view this link: http://www.centurylinkcloud.com/knowledge-base/network/how-to-add-public-ip-to-virtual-machine/
+- If you need to connect to your server via internet, add a Public IP address to your server.  For more information view this link: http://www.ctl.io/knowledge-base/network/how-to-add-public-ip-to-virtual-machine/
 
 	![ip.jpg](https://t3n.zendesk.com/attachments/token/kObGC9P2IjP1ate0NexwFNiXz/?name=ip.jpg)
 
-- Allow incoming traffic for ports to an existing server by managing Firewall rules.  Fore more information, vie this link: http://www.centurylinkcloud.com/knowledge-base/network/creating-cross-data-center-firewall-policies/
+- Allow incoming traffic for ports to an existing server by managing Firewall rules.  Fore more information, vie this link: http://www.ctl.io/knowledge-base/network/creating-cross-data-center-firewall-policies/
 
 	![port.jpg](https://t3n.zendesk.com/attachments/token/1Ufw0JjIWW8XfASYLh4x3Irl9/?name=port.jpg)
 
