@@ -13,5 +13,5 @@ before_install:
   - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
   - git submodule update --init --recursive
   - npm install -g npm@latest
-  - npm install
+  - cd lib && npm install
 script: node index.js
