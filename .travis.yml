@@ -11,6 +11,7 @@ node_js:
   - '0.10'
 before_install:
   - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+  - git submodule foreach 'git fetch && git fetch --tags'
   - git submodule update --init --recursive
   - npm install -g npm@latest
   - cd lib && npm install && ls
