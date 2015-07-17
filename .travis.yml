@@ -15,4 +15,4 @@ before_install:
   - git submodule update --init --recursive
   - npm install -g npm@latest
   - cd lib && npm install && ls
-script: time node index.js
+script: node index.js
